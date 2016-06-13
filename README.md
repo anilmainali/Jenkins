@@ -13,3 +13,5 @@ http://stackoverflow.com/questions/20738055/need-step-by-step-guide-to-execute-t
 #### Continuous automated web tests using Jenkins and JMeter
 https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta
 
+#### Distributed Performance Testing With Maven JMeter and Jenkins
+https://dzone.com/articles/distributed-performance
