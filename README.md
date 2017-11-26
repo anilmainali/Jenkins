@@ -11,6 +11,8 @@
 ## Project Homepage
 ## Enable and Disable Projects
 ## Build History
+## Build Page
+## Batch Project
 
 
 ## Resources
