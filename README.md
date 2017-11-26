@@ -13,6 +13,9 @@
 ## Build History
 ## Build Page
 ## Batch Project
+## Deleting a Project
+## Cleaning Up / Fix Broken Project
+## Copy a Project
 
 
 ## Resources
