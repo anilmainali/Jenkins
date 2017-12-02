@@ -27,6 +27,8 @@ Set up wizard dialog opens.Click Next.
 
 Click Next to install to the default folder [C:\Program Files (x86)\Jenkins\] or click change to choose another.
 
+Click Install for Ready to install Jenkins 2.7.2 dialog.
+
 
 
 
