@@ -13,6 +13,8 @@ Under LTS Release Click on 2.7.2.war drop down.
 
 Select and Click on Windows.
 
+You can see the jenkins-2.7.2.zip installer. After Download completes, Click on zip Installer.
+
 
 
 
