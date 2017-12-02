@@ -41,6 +41,12 @@ Click on Install without selecting any Plugins.
 
 Getting Started screen processes the plugins.
 
+Create first admin user screen opens.
+
+Enter a username, Password, confirm a password, full name, and email address and click on Save and Finish button.
+
+
+
 
 
 
