@@ -33,6 +33,11 @@ Note: if User account control dialog prompts. Click on Yes
 
 Getting Started, Unlock Jenkins screen appears.
 
+Navigate to C:\Program Files (x86)\Jenkins\secrets\initialAdminPassword, Copy the password and Paste inside Administrator Password Box.
+
+
+
+
 
 
 
