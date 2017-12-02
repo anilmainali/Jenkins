@@ -29,6 +29,10 @@ Click Next to install to the default folder [C:\Program Files (x86)\Jenkins\] or
 
 Click Install for Ready to install Jenkins 2.7.2 dialog.
 
+Note: if User account control dialog prompts. Click on Yes
+
+Getting Started, Unlock Jenkins screen appears.
+
 
 
 
