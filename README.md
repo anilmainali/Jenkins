@@ -17,6 +17,10 @@ You can see the jenkins-2.7.2.zip installer. After Download completes, Click on 
 
 Click on Extract all Files
 
+Leave the default directory or browse and select the directory where you want to install Jenkins. 
+
+
+
 
 
 
