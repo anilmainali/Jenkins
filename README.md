@@ -35,6 +35,12 @@ Getting Started, Unlock Jenkins screen appears.
 
 Navigate to C:\Program Files (x86)\Jenkins\secrets\initialAdminPassword, Copy the password and Paste inside Administrator Password Box.
 
+For Customize Jenkins, Select plugins to install.
+
+Click on Install without selecting any Plugins.
+
+Getting Started screen processes the plugins.
+
 
 
 
