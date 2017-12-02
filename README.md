@@ -25,6 +25,8 @@ Navigate to the folder where you saved your file and double click to start to in
 
 Set up wizard dialog opens.Click Next.
 
+Click Next to install to the default folder [C:\Program Files (x86)\Jenkins\] or click change to choose another.
+
 
 
 
