@@ -45,6 +45,10 @@ Create first admin user screen opens.
 
 Enter a username, Password, confirm a password, full name, and email address and click on Save and Finish button.
 
+Jenkins is Ready screen appears. Click on Start using Jenkins.
+
+Jenkins Landing page appears on port 8080.
+
 
 
 
