@@ -23,6 +23,8 @@ Click on Extract.
 
 Navigate to the folder where you saved your file and double click to start to install.
 
+Set up wizard dialog opens.Click Next.
+
 
 
 
