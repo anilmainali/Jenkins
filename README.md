@@ -19,6 +19,10 @@ Click on Extract all Files
 
 Leave the default directory or browse and select the directory where you want to install Jenkins. 
 
+Click on Extract.
+
+
+
 
 
 
