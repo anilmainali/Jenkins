@@ -7,6 +7,10 @@ Please Follow the following steps to Download and Install Jenkins.
 
 Navigate to this URL: https://jenkins.io/ to access the official Jenkins download page.
 
+Click on the big red Download Jenkins button.
+
+Under LTS Release Click on 2.7.2.war drop down.
+
 
 ## Jenkins Basics Overview
 ## Login
