@@ -21,6 +21,10 @@ Leave the default directory or browse and select the directory where you want to
 
 Click on Extract.
 
+Navigate to the folder where you saved your file and double click to start to install.
+
+
+
 
 
 
