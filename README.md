@@ -11,6 +11,10 @@ Click on the big red Download Jenkins button.
 
 Under LTS Release Click on 2.7.2.war drop down.
 
+Select and Click on Windows.
+
+
+
 
 ## Jenkins Basics Overview
 ## Login
