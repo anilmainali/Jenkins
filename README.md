@@ -5,6 +5,8 @@
 
 Please Follow the following steps to Download and Install Jenkins.
 
+Navigate to this URL: https://jenkins.io/ to access the official Jenkins download page.
+
 
 ## Jenkins Basics Overview
 ## Login
